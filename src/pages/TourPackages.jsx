@@ -69,7 +69,7 @@ function Packages() {
     {
       id: 4,
       title: "Thiruvananthapuram Royal Tour",
-      image: thiruvananthapuramImg,
+      image: thiruvanathapuramImg,
       price: "₹3,599",
       duration: "1 Day",
       itinerary: [
