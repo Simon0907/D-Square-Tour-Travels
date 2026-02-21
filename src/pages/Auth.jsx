@@ -2,8 +2,8 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "../css/Auth.css";
 
-const ADMIN_EMAIL = "admin@vismi.com";
-const ADMIN_PASSWORD = "Vismi@Admin123";
+const ADMIN_EMAIL = "admin@dsquare.com";
+const ADMIN_PASSWORD = "Dsquare@Admin123";
 
 const Auth = () => {
   const [isLogin, setIsLogin] = useState(true);
