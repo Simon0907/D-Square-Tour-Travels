@@ -3,7 +3,7 @@ import "../css/Package.css";
 
 import maduraiImg from "../assets/Madurai.jpg";
 import rameshwaramImg from "../assets/Rameshwaram.webp";
-import kanyakumariImg from "../assets/kanyakumari.jpeg";
+import Kanyakumari from "../assets/kanyakumari.jpeg";
 import thiruvananthapuramImg from "../assets/thiruvananthapuram.webp"; // FIXED
 import kodaikanalImg from "../assets/Kodaikanal.webp";
 import tamilnaduImg from "../assets/tamilnadu.jpg";
