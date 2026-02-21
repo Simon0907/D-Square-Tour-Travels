@@ -285,7 +285,7 @@ function Packages() {
     {
       id: 9,
       title: "Trivandrum Coastal Escape (3 Days)",
-      image: thiruvananthapuramImg,
+      image: thiruvanathapuramImg,
       price: "₹9,999",
       duration: "3 Days & 2 Nights",
       detailedItinerary: [
